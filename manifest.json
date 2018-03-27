@@ -2,9 +2,9 @@
   {
     "platformVersion": "0.15.x",
     "targetNativeDependencies": [
+      "react-native-material-kit@0.5.1"
     ],
     "targetJsDependencies": [
-      "react-native-material-kit@0.5.1"
     ]
   }
 ]
