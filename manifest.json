@@ -1,9 +1,10 @@
 [
   {
-    "platformVersion": "0.x",
+    "platformVersion": "0.15.x",
     "targetNativeDependencies": [
     ],
     "targetJsDependencies": [
+      "react-native-material-kit@0.5.1"
     ]
   }
 ]
