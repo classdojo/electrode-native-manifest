@@ -1,6 +1,6 @@
 {
   "android": {
-    "root": "",
+    "root": "lib",
     "moduleName": "android"
   }
 }
