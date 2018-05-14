@@ -49,8 +49,6 @@
       "react-native-material-kit@0.5.1",
       "react-native-elements@0.19.0",
       "rn-viewpager@1.2.9",
-      "react-native-video@2.0.0",
-      "react-native-video-player@0.9.1",
       "react-native-shared-preferences@1.0.0",
       "@classdojo/react-native-api-impl@1.0.0",
       "@classdojo/react-native-android@1.0.2"
