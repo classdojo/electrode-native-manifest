@@ -51,6 +51,7 @@
       "rn-viewpager@1.2.9",
       "react-native-video@2.0.0",
       "react-native-video-player@0.9.1",
+      "react-native-android-shared-preferences@1.0.6",
       "react-native-shared-preferences@1.0.0",
       "@classdojo/react-native-api-impl@1.0.0",
       "@classdojo/react-native-android@1.0.2"
