@@ -1,6 +1,9 @@
 {
   "android": {
     "root": "",
-    "moduleName": "android"
+    "moduleName": "android",
+    "dependencies": [
+      "com.yqritc.scalablevideoview"
+    ]
   }
 }
