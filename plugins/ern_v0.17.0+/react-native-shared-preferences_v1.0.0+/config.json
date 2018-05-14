@@ -1,5 +1,6 @@
 {
   "android": {
-    "root": ""
+    "root": "android",
+    "moduleName": "app"
   }
 }
