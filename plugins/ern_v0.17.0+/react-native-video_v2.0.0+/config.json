@@ -3,7 +3,7 @@
     "root": "",
     "moduleName": "android",
     "dependencies": [
-      "com.github.yqritc:Android-ScalableVideoView:v1.0.4"
+      "com.yqritc:Android-ScalableVideoView:v1.0.4"
     ]
   }
 }
