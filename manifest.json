@@ -86,6 +86,7 @@
       "react-native-fetch-blob@0.10.8",
       "react-native-shared-preferences@1.0.0",
       "numeral@2.0.6",
+      "moment@2.22.2",
       "@classdojo/react-native-api-impl@1.0.0",
       "@classdojo/react-native-android@1.0.2"
     ],
