@@ -87,6 +87,7 @@
       "react-native-shared-preferences@1.0.0",
       "numeral@2.0.6",
       "moment@2.22.2",
+      "i18next@11.3.3",
       "@classdojo/react-native-api-impl@1.0.0",
       "@classdojo/react-native-android@1.0.2"
     ],
