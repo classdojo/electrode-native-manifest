@@ -2,6 +2,9 @@
   "android": {
     "root": "",
     "moduleName": "android",
+    "dependencies": [
+      "com.android.tools.build:gradle:2.2.+"
+    ],
     "permissions": [
       "android.permission.CAMERA",
       "android.permission.WRITE_EXTERNAL_STORAGE"
