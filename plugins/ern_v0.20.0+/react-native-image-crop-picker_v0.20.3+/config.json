@@ -2,6 +2,9 @@
   "android": {
     "root": "",
     "moduleName": "android",
+    "dependencies": [
+      "com.github.yalantis:ucrop:2.2.2"
+    ],
     "permissions": [
       "android.permission.CAMERA"
     ]
