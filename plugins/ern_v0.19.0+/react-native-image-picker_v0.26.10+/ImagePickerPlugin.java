@@ -6,14 +6,13 @@ import android.support.annotation.Nullable;
 
 import com.facebook.react.ReactPackage;
 
-//import com.imagepicker.ImagePickerPackage;
+import com.imagepicker.ImagePickerPackage;
 
 public class ImagePickerPlugin {
 
   public ReactPackage hook(@NonNull Application application,
                            ReactPluginConfig config) {
-    //ImagePicker imagePicker = new ImagePickerPackage();
-    //return imagePicker;
-    return null;
+    ImagePicker imagePicker = new ImagePickerPackage();
+    return imagePicker;
   }
 }
