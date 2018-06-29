@@ -3,7 +3,8 @@
     "root": "",
     "moduleName": "android",
     "dependencies": [
-      "com.github.yalantis:ucrop:2.2.2"
+      "com.github.yalantis:ucrop:2.2.2",
+      "id.zelory:compressor:2.1.0"
     ],
     "permissions": [
       "android.permission.CAMERA"
