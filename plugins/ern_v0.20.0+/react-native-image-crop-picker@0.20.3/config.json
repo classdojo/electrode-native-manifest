@@ -2,8 +2,6 @@
   "android": {
     "root": "",
     "moduleName": "android",
-    "dependencies": [
-    ],
     "permissions": [
       "android.permission.CAMERA"
     ]
