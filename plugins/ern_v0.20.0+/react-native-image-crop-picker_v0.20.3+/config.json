@@ -3,7 +3,7 @@
     "root": "",
     "moduleName": "android",
     "dependencies": [
-      "com.github.yalantis:ucrop:2.2.0-native",
+      "com.github.yalantis:ucrop:2.2.2-native",
       "id.zelory:compressor:2.1.0"
     ],
     "permissions": [
