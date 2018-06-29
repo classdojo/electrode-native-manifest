@@ -2,7 +2,6 @@
   "android": {
     "root": "",
     "moduleName": "android",
-    "repositories": ["https://jitpack.io"],
     "dependencies": [
       "com.github.yalantis:ucrop:2.2.2-native",
       "id.zelory:compressor:2.1.0"
