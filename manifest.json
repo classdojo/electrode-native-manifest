@@ -131,5 +131,11 @@
     "targetJsDependencies": [
       "react@16.3.1"
     ]
+  },
+  {
+    "platformVersion": "1000.0.0",
+    "targetNativeDependencies": [
+      "@classdojo/react-native-code-push@1000.0.0-beta"
+    ]
   }
 ]
