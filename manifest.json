@@ -134,7 +134,7 @@
   {
     "platformVersion": "1000.0.0",
     "targetNativeDependencies": [
-      "@classdojo/react-native-code-push@1000.0.0-beta"
+      "@classdojo/react-native-code-push@0.1.1"
     ]
   }
 ]
