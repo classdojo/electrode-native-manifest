@@ -1,0 +1,12 @@
+{
+  "android": {
+    "root": "",
+    "moduleName": "android",
+    "dependencies": [
+      "com.airbnb.android:lottie:2.6.0"
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}
