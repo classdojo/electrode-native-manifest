@@ -141,6 +141,7 @@
       "react-native-video@2.0.0",
       "react-native-video-player@0.9.0",
       "rn-fetch-blob@0.10.14",
+      "lottie-react-native@2.5.11",
       "react-native-shared-preferences@1.0.0",
       "@classdojo/react-native-api-impl@1.0.0",
       "@classdojo/react-native-android@1.0.2"
