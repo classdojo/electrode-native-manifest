@@ -1,6 +1,6 @@
 {
   "android": {
-    "root": "",
+    "root": "src",
     "moduleName": "android",
     "dependencies": [
       "com.airbnb.android:lottie:2.6.0"
