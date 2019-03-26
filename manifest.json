@@ -148,6 +148,12 @@
     ]
   },
   {
+    "platformVersion": "0.29.x",
+    "targetNativeDependencies": [
+      "rn-fetch-blob@0.10.15"
+    ]
+  },
+  {
     "platformVersion": "1000.0.0",
     "targetNativeDependencies": [
       "@classdojo/react-native-code-push@0.1.2"
