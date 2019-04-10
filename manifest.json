@@ -156,7 +156,7 @@
   {
     "platformVersion": "0.30.x",
     "targetNativeDependencies": [
-      "rn-fetch-blob@0.10.12"
+      "rn-fetch-blob@0.10.15"
     ]
   },
   {
