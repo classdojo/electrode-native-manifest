@@ -144,7 +144,8 @@
       "lottie-react-native@2.5.11",
       "react-native-shared-preferences@1.0.0",
       "@classdojo/react-native-api-impl@1.0.0",
-      "@classdojo/react-native-android@1.0.2"
+      "@classdojo/react-native-android@1.0.2",
+      "react-native-purchases@2.1.2"
     ]
   },
   {
@@ -156,7 +157,8 @@
   {
     "platformVersion": "0.30.x",
     "targetNativeDependencies": [
-      "rn-fetch-blob@0.10.15"
+      "rn-fetch-blob@0.10.15",
+      "react-native-purchases@2.1.2"
     ]
   },
   {

@@ -1,0 +1,12 @@
+{
+  "android": {
+    "root": "",
+    "moduleName": "android",
+    "dependencies": [
+      "com.revenuecat.purchases:purchases:2.1.0"
+    ],
+    "permissions": [
+      "android.permission.INTERNET"
+    ]
+  }
+}
